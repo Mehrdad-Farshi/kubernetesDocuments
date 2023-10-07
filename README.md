@@ -4,6 +4,8 @@
 1. [useful posts about k8](https://kubedemy.io/)
 1. [saeed boostani website](https://devops-with-saeid.com/)
 1. [easy way to make a k8 cluster](https://k3s.io/)
+1. [an other way to setup k8 ](https://kubespray.io/#/)
+1. [an other way to setup k8 ](https://kubespray.io/#/](https://k3s.io/)
 
 ```bash
 curl -sfL https://get.k3s.io | sh - 
